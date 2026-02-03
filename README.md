@@ -5,17 +5,17 @@ Dormitory Management System là một ứng dụng desktop mô phỏng hệ th�
 
 Dự án được thực hiện với mục tiêu:
 - Áp dụng kiến thức lập trình đã học
-- Rèn luyện tư duy phân tích nghiệp vụ theo định hướng **IT Business Analyst**
+- Rèn luyện tư duy phân tích nghiệp vụ theo định hướng 
 - Mô phỏng một hệ thống thông tin quản lý trong bối cảnh thực tế
 
 ---
 
-## 🎯 Objectives (Góc nhìn IT Business Analyst)
+## 🎯 Objectives
 - Phân tích bài toán quản lý ký túc xá từ góc độ nghiệp vụ
 - Xác định các tác nhân chính (sinh viên, hệ thống)
 - Chuyển đổi yêu cầu nghiệp vụ thành chức năng hệ thống
 - Thiết kế luồng xử lý: đăng nhập, đăng ký, truy cập hệ thống
-- Hiểu mối liên hệ giữa **nghiệp vụ – dữ liệu – giao diện**
+- Hiểu mối liên hệ giữa 
 
 ---
 
@@ -35,13 +35,11 @@ Dự án được thực hiện với mục tiêu:
 - **IDE:** PyCharm  
 - **Version Control:** Git & GitHub  
 
----
-
 
 ---
 
-## 📊 BA-Oriented Analysis (Mô tả ngắn)
-- **Actors:** Sinh viên
+## 📊 BA-Oriented Analysis 
+- **Actors:** Nhân viên quản lý ktx
 - **Use cases chính:** 
   - Đăng nhập hệ thống
   - Đăng ký tài khoản
@@ -64,7 +62,8 @@ Dự án là bước khởi đầu để mở rộng sang các chức năng qu�
 ---
 
 ## 👤 Author
-Nguyễn Trần Yên Đan - K244161778 
+Nguyễn Trần Yên Đan - K244161778
+Đồ án nhóm môn học Kỹ thuật lập trình 
 Chuyên ngành Kinh doanh số & Trí tuệ nhân tạo
 Khoa Hệ thống Thông tin
 Trường Đại học Kinh tế - Luật, ĐHQG-TP.HCM 
