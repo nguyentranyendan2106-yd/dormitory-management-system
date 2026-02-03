@@ -62,15 +62,16 @@ Dự án là bước khởi đầu để mở rộng sang các chức năng qu�
 ---
 
 ## 👤 Author
-Nguyễn Trần Yên Đan - K244161778
+**Nguyễn Trần Yên Đan** – K244161778  
 
-Đồ án nhóm môn học Kỹ thuật lập trình
+Đồ án nhóm môn học **Kỹ thuật lập trình**  
 
-Chuyên ngành Kinh doanh số & Trí tuệ nhân tạo
+Chuyên ngành **Kinh doanh số & Trí tuệ nhân tạo**  
 
-Khoa Hệ thống Thông tin
+Khoa **Hệ thống Thông tin**  
 
-Trường Đại học Kinh tế - Luật, ĐHQG-TP.HCM 
+Trường **Đại học Kinh tế – Luật, ĐHQG-HCM**
+
 
 ---
 
