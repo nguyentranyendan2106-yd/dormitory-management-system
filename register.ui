@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>470</width>
+    <height>714</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">border-image: url(:/Anh giao dien dang ky/Anh nen giao dien dang ky.jpg);</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLineEdit" name="reg_tennguoidung">
+    <property name="geometry">
+     <rect>
+      <x>170</x>
+      <y>630</y>
+      <width>171</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/Anh giao dien dang ky/Mau trang.jpg);</string>
+    </property>
+    <property name="placeholderText">
+     <string>Nhập tên người dùng</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="dangky_matkhau">
+    <property name="geometry">
+     <rect>
+      <x>170</x>
+      <y>650</y>
+      <width>171</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/Anh giao dien dang ky/Mau trang.jpg);</string>
+    </property>
+    <property name="placeholderText">
+     <string>Nhập mật khẩu</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="reg_dangky">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>640</y>
+      <width>91</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>10</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/Anh giao dien dang ky/Mau trang.jpg);</string>
+    </property>
+    <property name="text">
+     <string>Đăng ký</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources>
+  <include location="Anhdangky.qrc"/>
+ </resources>
+ <connections/>
+</ui>

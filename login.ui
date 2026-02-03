@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>464</width>
+    <height>716</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">border-image: url(:/Anh giao dien dang nhap/Anh nen giao dien dang nhap.jpg);</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLineEdit" name="login_tennguoidung">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>620</y>
+      <width>211</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/Anh giao dien dang nhap/Mau trang.jpg);</string>
+    </property>
+    <property name="placeholderText">
+     <string>Nhập tên người dùng</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="login_matkhau">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>640</y>
+      <width>211</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/Anh giao dien dang nhap/Mau trang.jpg);</string>
+    </property>
+    <property name="echoMode">
+     <enum>QLineEdit::Password</enum>
+    </property>
+    <property name="placeholderText">
+     <string>Nhập mật khẩu</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="login_dangky">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>670</y>
+      <width>151</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/Anh giao dien dang nhap/Mau trang.jpg);</string>
+    </property>
+    <property name="text">
+     <string>Đăng ký ngay</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="login_dangnhap">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>630</y>
+      <width>71</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Times New Roman</family>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/Anh giao dien dang nhap/Mau trang.jpg);</string>
+    </property>
+    <property name="text">
+     <string>Đăng nhập</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources>
+  <include location="Anh.qrc"/>
+ </resources>
+ <connections/>
+</ui>
